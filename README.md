@@ -5,4 +5,4 @@ I've changed background and added animation.
 <br>
 Background image from Pixabay.
 <br>
-I've changed some part of JS code to display month and year.
+I've changed some part of JS code to display not only month but also the year.
